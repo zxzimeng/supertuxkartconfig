@@ -1,0 +1,90 @@
+[info   ] [FileManager]: Data files will be fetched from: '/Applications/SuperTuxKart.app/Contents/Resources/data/'
+[info   ] [FileManager]: User directory is '/Users/zimengx/Library/Application Support/SuperTuxKart/config-0.10/'.
+[info   ] [FileManager]: Addons files will be stored in '/Users/zimengx/Library/Application Support/SuperTuxKart/Addons/'.
+[info   ] [FileManager]: Screenshots will be stored in '/Users/zimengx/Library/Application Support/SuperTuxKart/Screenshots/'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '/Users/zimengx/Library/Application Support/SuperTuxKart/grandprix/'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/gui/icons/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/gui/screens/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/gui/dialogs/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/replay/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/shaders/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/skins/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/ttf/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/po/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/library/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/models/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/music/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/sfx/'.
+[info   ] [FileManager]: Asset 15 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/textures/'.
+[info   ] [FileManager]: Asset 16 will be loaded from '/Applications/SuperTuxKart.app/Contents/Resources/data/tracks/'.
+[info   ] [IrrDriver Logger]: ..:: Antarctica Rendering Engine 2.0 ::..
+[info   ] [IrrDriver Logger]: SDL Version 2.24.1
+[info   ] [IrrDriver Logger]: Using renderer: OpenGL 4.1
+[info   ] [IrrDriver Logger]: Apple M2: Apple
+[info   ] [IrrDriver Logger]: OpenGL driver version is 1.2 or better.
+[info   ] [IrrDriver Logger]: GLSL version: 4.1
+[info   ] IrrDriver: OpenGL version: 4.1
+[info   ] IrrDriver: OpenGL vendor: Apple
+[info   ] IrrDriver: OpenGL renderer: Apple M2
+[info   ] IrrDriver: OpenGL version string: 4.1 Metal - 88.1
+[warn   ] Graphics: Can not find version for '4.1 Metal - 88.1' 'Apple M2' - ignored.
+[info   ] GLDriver: ARB Texture Storage Present
+[info   ] GLDriver: EXT Texture Compression S3TC Present
+[info   ] GLDriver: ARB Explicit Attrib Location Present
+[info   ] GLDriver: EXT Texture Filter Anisotropic Present
+[info   ] GLDriver: Geometry Shaders Present
+[info   ] GLDriver: ARB Texture Buffer Object Present
+[info   ] GLDriver: ARB Texture Swizzle Present
+[info   ] GLDriver: ARB Sampler Objects Present
+[info   ] GLDriver: ARB Vertex Type 2_10_10_10_rev Present
+[info   ] GLDriver: ARB Instanced Arrays Present
+[info   ] SharedGPUObjects: Hardware Skinning enabled, method: TBO, max bones: 1024
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/screenquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/motion_blur.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/lightning.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/primitive2dlist.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/texturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/uniformcolortexturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/texturedquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/coloredquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/coloredquad.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/colortexturedquad.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/colortexturedquad.frag
+[info   ] irr_driver: GLSL supported.
+[info   ] GUI: Loading skin data from file: /Applications/SuperTuxKart.app/Contents/Resources/data/skins/peach/stkskin.xml
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_solid.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_skinning.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_alpha_test.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_decal.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_grass_pass.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_grass.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_transparent.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_ghost.frag
+[info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_news.xml
+[info   ] addons: Using cached addons.xml.
+[info   ] GrandPrixManager: Loading Grand Prix files from /Applications/SuperTuxKart.app/Contents/Resources/data/grandprix/
+[info   ] GrandPrixManager: Loading Grand Prix files from /Users/zimengx/Library/Application Support/SuperTuxKart/grandprix/
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] Thread: Start waiting 2007125.587000
+[verbose  ] Thread: Waited 0.011000 seconds for thread to become deleteable.
+[verbose  ] Thread: Stop waiting 2007125.598000
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
