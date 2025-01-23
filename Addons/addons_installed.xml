@@ -940,4 +940,5 @@
   <arena name="Warehouse" id="warehouse" designer="STK&#x20;Arenas&#x20;Owner&#x20;Edgar" status="325" date="1474930174" installed="false" installed-revision="0" size="326525" icon-revision="1" icon-name="90812613957e9a5fed9e1d.png"/>
   <arena name="Wooded&#x20;Skyway" id="wooded-skyway" designer="Marcel&#x20;Therrien" status="833" date="1600469624" installed="false" installed-revision="0" size="1717321" icon-revision="7" icon-name="9414436125f6408156f17c.jpg"/>
   <arena name="Enterprise&#x20;FFA" id="enterprise-ffa" designer="rubberduck&#x20;&#x26;&#x20;Jean-Manuel&#x20;Cl&#xE9;men&#xE7;on&#x20;(skindoormimiz&#x20;edit)" status="769" date="1735932674" installed="false" installed-revision="0" size="10217880" icon-revision="1" icon-name="39206929267783afd64628.png"/>
+  <kart name="Ancestral&#x20;Mr.&#x20;Iceblock" id="ancestral-mr--iceblock" designer="Ingo&#x20;Ruhnke" status="256" date="1737498186" installed="false" installed-revision="0" size="50477" icon-revision="0" icon-name="131815969867901e4a5900d.png"/>
 </addons>

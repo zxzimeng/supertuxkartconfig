@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE news
 SYSTEM "../assets/dtd/news.dtd">
-<news version="1" mtime="1737158403" frequency="0">
-    <include file="https://online.supertuxkart.net/dl/xml/online_assets.xml" mtime="1737072004"/>
+<news version="1" mtime="1737650131" frequency="0">
+    <include file="https://online.supertuxkart.net/dl/xml/online_assets.xml" mtime="1737590403"/>
+    <message id="1030" date="2025-01-18 19:23:56" author="" content="Newest add-on track: Old Blackhill Mansion"/>
     <message id="1027" date="2025-01-16 17:34:44" author="" content="Newest add-on kart: Guerriero corallo"/>
     <message id="1026" date="2025-01-03 19:33:59" author="" content="Newest add-on arena: Enterprise FFA"/>
     <message id="1025" date="2024-12-23 22:45:31" author="CrystalDaEevee" content="Happy Holidays!"/>
-    <message id="1024" date="2024-11-23 18:13:12" author="" content="Newest add-on track: limits"/>
     <message id="1022" date="2024-10-31 12:19:00" author="" content="Latest post on https://blog.supertuxkart.net:  SuperTuxkart 1.5-beta1 is available!"/>
 </news>

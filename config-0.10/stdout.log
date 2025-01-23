@@ -74,17 +74,258 @@
 [warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
 [warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
 [warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/simple_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/simple_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/alphatest_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/alphatest_particle.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sky.vert
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sky.frag
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/shaders/sp_text_billboard.frag
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=7, ghost karts:0 ai:6 players:1
+
+[info   ] Track: Overall scene complexity estimated at 193
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[warn   ] SFXManager: Throttling sfx - queue size 97
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=2, ghost karts:1 ai:0 players:1
+
+[warn   ] Scripting preprocessing: /Applications/SuperTuxKart.app/Contents/Resources/data/library/stklib_monkeyCheering_a/scripting.as:28: warning: End of input with no newline, supplemented newline
+[info   ] Track: Overall scene complexity estimated at 2476
+[info   ] Replay: Reading replay file '/Applications/SuperTuxKart.app/Contents/Resources/data/replay/challenge_cocoa_temple_intermediate.replay'.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[warn   ] SFXManager: Throttling sfx - queue size 65
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
 [warn   ] LayoutManager: Statically sized widgets took all the place!!
-[verbose  ] Thread: Start waiting 2007125.587000
-[verbose  ] Thread: Waited 0.011000 seconds for thread to become deleteable.
-[verbose  ] Thread: Stop waiting 2007125.598000
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=2, ghost karts:1 ai:0 players:1
+
+[warn   ] Scripting preprocessing: /Applications/SuperTuxKart.app/Contents/Resources/data/library/stklib_monkeyCheering_a/scripting.as:28: warning: End of input with no newline, supplemented newline
+[info   ] Track: Overall scene complexity estimated at 2476
+[info   ] Replay: Reading replay file '/Applications/SuperTuxKart.app/Contents/Resources/data/replay/challenge_cocoa_temple_intermediate.replay'.
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[warn   ] SFXManager: Throttling sfx - queue size 66
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=6, ghost karts:0 ai:5 players:1
+
+[info   ] [FileManager]: Creating directory(ies) '/Users/zimengx/Library/Application Support/SuperTuxKart/CachedTextures/resized_512/tracks/candela_city'
+[info   ] FileManager: Creating directory '/Users/zimengx/Library/Application Support/SuperTuxKart/CachedTextures/resized_512/tracks/candela_city/'.
+[info   ] [FileManager]: Creating directory(ies) '/Users/zimengx/Library/Application Support/SuperTuxKart/CachedTextures/resized_512/library/stklib_pinkRibbon_a'
+[info   ] FileManager: Creating directory '/Users/zimengx/Library/Application Support/SuperTuxKart/CachedTextures/resized_512/library/stklib_pinkRibbon_a/'.
+[info   ] [FileManager]: Creating directory(ies) '/Users/zimengx/Library/Application Support/SuperTuxKart/CachedTextures/resized_512/library/stklib_silvianGirl_a'
+[info   ] FileManager: Creating directory '/Users/zimengx/Library/Application Support/SuperTuxKart/CachedTextures/resized_512/library/stklib_silvianGirl_a/'.
+[info   ] Track: Overall scene complexity estimated at 1255
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=12, challenges=26
+[warn   ] SFXManager: Throttling sfx - queue size 84
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=7, ghost karts:0 ai:6 players:1
+
+[info   ] Track: Overall scene complexity estimated at 1255
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ghost karts:0 ai:0 players:0
+
+[warn   ] AnimTexture: Did not find animate texture 'seagloss.png'
+[info   ] Track: Overall scene complexity estimated at 12
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[warn   ] SFXManager: Throttling sfx - queue size 43
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=8, ghost karts:0 ai:7 players:1
+
+[info   ] Track: Overall scene complexity estimated at 1255
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=2, ghost karts:1 ai:0 players:1
+
+[warn   ] Scripting preprocessing: /Applications/SuperTuxKart.app/Contents/Resources/data/library/stklib_monkeyCheering_a/scripting.as:28: warning: End of input with no newline, supplemented newline
+[info   ] Track: Overall scene complexity estimated at 2476
+[info   ] Replay: Reading replay file '/Applications/SuperTuxKart.app/Contents/Resources/data/replay/challenge_cocoa_temple_expert.replay'.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=13, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=7, ghost karts:0 ai:6 players:1
+
+[info   ] Track: Overall scene complexity estimated at 193
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=0, ghost karts:0 ai:0 players:0
+
+[warn   ] AnimTexture: Did not find animate texture 'seagloss.png'
+[info   ] Track: Overall scene complexity estimated at 12
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=1, ghost karts:0 ai:0 players:1
+
+[info   ] ShaderFilesManager: Compiling shader: /Applications/SuperTuxKart.app/Contents/Resources/data/tracks/overworld/splatting.frag
+[info   ] Track: Overall scene complexity estimated at 106
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
+[info   ] Script: allchallenges: unlocked_challenges=14, challenges=26
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
